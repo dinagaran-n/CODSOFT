@@ -1,0 +1,32 @@
+[
+    {
+        "name": "john",
+        "phone": "756865",
+        "email": "J@132.com",
+        "address": "yxz"
+    },
+    {
+        "name": "arjun",
+        "phone": "756865",
+        "email": "arjun@132.com",
+        "address": "lkj"
+    },
+    {
+        "name": "vimal",
+        "phone": "425625",
+        "email": "dd@123.com",
+        "address": "yy"
+    },
+    {
+        "name": "david",
+        "phone": "756865",
+        "email": "J@132.com",
+        "address": "yy"
+    },
+    {
+        "name": "eg",
+        "phone": "6856884",
+        "email": "fh",
+        "address": "jgii"
+    }
+]
